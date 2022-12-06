@@ -1,1 +1,1 @@
-hoge hero
+hoge hero (feature-A)
